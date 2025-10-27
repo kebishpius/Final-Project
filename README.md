@@ -1,10 +1,19 @@
-# Final-Project
+# Final Project
 
-A Readme that contains:
-Team name
-Team members and their email addresses:
-TImothy, tsb79
+## Team Name
+[Please insert your team name here]
 
+## Team Members
+* Timothy - tsb79@pitt.edu
 
-Description and links to the datasets used
-A one sentence overview of your repository, meant for someone who is not familiar with the project
+## Project Overview
+This repository contains the code and analysis for our final project, which aims to [insert your one-sentence goal here].
+
+## Datasets Used
+* **Dataset 1 Name:** [A clear, descriptive name for your first dataset]
+  * **Description:** [A brief description of what this dataset contains and its relevance to the project.]
+  * **Link:** [URL to the dataset]
+
+* **Dataset 2 Name:** [A clear, descriptive name for your second dataset, if applicable]
+  * **Description:** [A brief description.]
+  * **Link:** [URL to the dataset]
