@@ -5,6 +5,7 @@
 
 ## Team Members
 * Timothy - tsb79@pitt.edu
+* Kebish Pius - kep259@pitt.edu
 
 ## Project Overview
 This repository contains the code and analysis for our final project, which aims to [insert your one-sentence goal here].
