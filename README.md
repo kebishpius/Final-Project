@@ -1,7 +1,7 @@
 # Final Project
 
 ## Team Name
-[Please insert your team name here]
+Team Safety
 
 ## Team Members
 * Timothy - tsb79@pitt.edu
@@ -9,17 +9,17 @@
 * Gavin - gbr19@pitt.edu
 
 ## Project Overview
-This repository contains the code and analysis for our final project, which aims to [insert your one-sentence goal here].
+This repository contains the code and analysis for our final project, which aims to find the best neighborhood based on safety.
 
 ## Datasets Used
-* **Dataset 1 Name:**
-  * **Description:**
-  * **Link:** 
+* **Dataset 1 Name:** Firearm Seizures Data
+  * **Description:** This data includes counts of firearms by type seized by the Pittsburgh Bureau of Police. Each row describes a seizure incident involving one or more firearms.
+  * **Link:** https://data.wprdc.org/dataset/pbp-fire-arm-seizures
 
 * **Dataset 2 Name:** [A clear, descriptive name for your second dataset, if applicable]
   * **Description:** [A brief description.]
   * **Link:** [URL to the dataset]
  
-* ** **Dataset 3 Name:** Fire Incidents in City of Pittsburgh
-  * **Description:** Incidents of fire responded to by the Pittsburgh Bureau of Fire.
-  * **Link:** [[Link to Data]](https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh)
+* ** **Dataset 3 Name:** [A clear, descriptive name for your second dataset, if applicable]
+  * **Description:** [A brief description.]
+  * **Link:** [URL to the dataset]
