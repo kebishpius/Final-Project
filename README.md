@@ -22,4 +22,4 @@ This repository contains the code and analysis for our final project, which aims
  
 * ** **Dataset 3 Name:** [A clear, descriptive name for your second dataset, if applicable]
   * **Description:** [A brief description.]
-  * **Link:** [URL to the dataset]
+  * **Link:** [[URL to the dataset](https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025)]
