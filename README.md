@@ -13,13 +13,13 @@ This repository contains the code and analysis for our final project, which aims
 
 ## Datasets Used
 * **Dataset 1 Name:** Firearm Seizures Data
-  * **Description:** This data includes counts of firearms by type seized by the Pittsburgh Bureau of Police. Each row describes a seizure incident involving one or more firearms.
+  * **Description:** This dataset includes counts of firearms by type seized by the Pittsburgh Bureau of Police. Each row describes a seizure incident involving one or more firearms.
   * **Link:** https://data.wprdc.org/dataset/pbp-fire-arm-seizures
 
 * **Dataset 2 Name:** Pittsburgh Police Arrests (2024-2025)
   * **Description:** This dataset includes records of arrests made by the Pittsburgh Bureau of Police. Each row describes the offender, nature of the crime, severity of the crime, etc. 
   * **Link:** https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025
  
-* ** **Dataset 3 Name:** [A clear, descriptive name for your second dataset, if applicable]
-  * **Description:** [A brief description.]
-  * **Link:** https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025
+* ** **Dataset 3 Name:** Fire Incidents in Pittsburgh (2013-2025)
+  * **Description:** This dataset includes fire incidents from the city of Pittsburgh. Each row describes the fire incident, call number, address, neighborhood, alarm time and more niche information. 
+  * **Link:** https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
