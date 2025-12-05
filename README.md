@@ -1,7 +1,7 @@
 # Final Project
 
 ## Team Name
-Team Safety
+The Protection Pioneers
 
 ## Team Members
 * Timothy - tsb79@pitt.edu
