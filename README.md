@@ -4,9 +4,9 @@
 The Protection Pioneers
 
 ## Team Members
-* Timothy - tsb79@pitt.edu - Firearm Seizures
-* Kebish Pius - kep259@pitt.edu - Fire Incidents 
-* Gavin - gbr19@pitt.edu - Police Arrests
+* Timothy - tsb79@pitt.edu - Firearm Seizures Notebook
+* Kebish Pius - kep259@pitt.edu - Fire Incidents Notebook
+* Gavin - gbr19@pitt.edu - Arrest Records Notebook
 
 ## Project Overview
 This repository contains the code and analysis for our final project, which aims to find the best neighborhood based on safety.
