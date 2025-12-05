@@ -1,7 +1,7 @@
 # Final Project
 
 ## Team Name
-The Protection Pioneers
+The Protection Pioneers - Canvas Group 25
 
 ## Team Members
 * Timothy - tsb79@pitt.edu - Firearm Seizures Notebook
@@ -9,7 +9,7 @@ The Protection Pioneers
 * Gavin - gbr19@pitt.edu - Arrest Records Notebook
 
 ## Project Overview
-This repository contains the code and analysis for our final project, which aims to find the best neighborhood based on safety.
+This repository contains the code and analysis for our final project, which aims to find the best neighborhood in Pittsburgh based on safety.
 
 ## Datasets Used
 * **Dataset 1 Name:** Firearm Seizures Data
